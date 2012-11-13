@@ -1,0 +1,16 @@
+
+*.a
+*.o
+*.ko
+*.mod.c
+
+*.symvers
+*.order
+
+epoll/
+_w
+*.log
+out
+client
+server
+
