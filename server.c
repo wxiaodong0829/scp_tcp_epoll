@@ -8,6 +8,7 @@
 /*
  * test git diff
  * */
+/* test stage */
 
 #include <stdio.h>
 #include <string.h>
